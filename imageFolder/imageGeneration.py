@@ -1,4 +1,4 @@
-from apiKey import OPENAPIKEY
+from newfile import OPENAPIKEY
 import openai
 
 # Set up the OpenAI API client with the key
